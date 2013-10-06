@@ -7,6 +7,12 @@ Program na dziesiaj:
 * podstawy secure shell
 * edytor
 
+<p>This is an <a href="http://example.com/">
+example link</a>.</p>
+
+<img src="/path/to/img.jpg" alt="alt text" title="Title" />
+
+
 ## Zmiana hasła
 
 ```sh
