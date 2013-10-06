@@ -1,7 +1,11 @@
 jp-na-100
 =========
 
-Repozytorium do zajęć Języków Programowania 
+Program na dziesiaj:
+
+*oswajanie notacji markdown
+*podstawy secure shell
+*edytor
 
 ## Zmiana hasła
 
