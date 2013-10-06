@@ -3,9 +3,8 @@ jp-na-100
 
 Program na dziesiaj:
 
-* <p>oswajanie <a href="http://daringfireball.net/projects/markdown/basics">
-notacji markdown</a>.</p>
-* dodawanie obrazków
+* <p>oswajanie [notacji markdown] [daringfireball]
+* dodawanie obrazków [stackoverflow-screenshots]
 * podstawy secure shell
 * edytor
 
@@ -34,3 +33,5 @@ main()
 printf("hello world");
 }
 ```
+[darinffireball]: http://daringfireball.net/projects/markdown/basics
+[stackoverflow-screenshot]: http://stackoverflow.com/
