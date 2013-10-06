@@ -3,12 +3,12 @@ jp-na-100
 
 Program na dziesiaj:
 
-* oswajanie notacji markdown
+* <p>oswajanie <a href="http://daringfireball.net/projects/markdown/basics">
+notacji markdown</a>.</p>
+* dodawanie obrazków
 * podstawy secure shell
 * edytor
 
-<p>This is an <a href="http://example.com/">
-example link</a>.</p>
 
 <img src="/path/to/img.jpg" alt="alt text" title="Title" />
 
