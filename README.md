@@ -3,9 +3,9 @@ jp-na-100
 
 Program na dziesiaj:
 
-*oswajanie notacji markdown;
-*podstawy secure shell;
-*edytor;
+* oswajanie notacji markdown
+* podstawy secure shell
+* edytor
 
 ## Zmiana hasła
 
