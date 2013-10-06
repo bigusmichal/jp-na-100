@@ -12,7 +12,7 @@ passwd
 Być może trzeba bedzię zalogować na Sigmę:
 
 ```sh
-sth wbzyl@sigma.ug.edu.pl
+sth bigusmichal@gmail.com
 ```
 
 Przykładowy program w C:
