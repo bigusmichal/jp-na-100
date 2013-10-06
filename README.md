@@ -9,8 +9,6 @@ Program na dziesiaj:
 * edytor
 
 
-<img src="/path/to/img.jpg" alt="alt text" title="Title" />
-
 
 ## Zmiana hasła
 
@@ -33,5 +31,5 @@ main()
 printf("hello world");
 }
 ```
-[darinffireball]: http://daringfireball.net/projects/markdown/basics
-[stackoverflow-screenshot]: http://stackoverflow.com/
+[daringfireball]: http://daringfireball.net/projects/markdown/basics
+[stackoverflow-screenshots]: http://stackoverflow.com/
