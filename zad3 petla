@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main (void)
+{
+	int x,y,i;
+
+			printf("Podaj pierwszą liczbę: ");
+			scanf("%d", &x);
+			printf("Podaj drugą liczbę: ");
+			scanf("%d", &y);
+		while (x++ < y) {
+		printf ("%d  \n, x")
+		++x;
+		}
+}
