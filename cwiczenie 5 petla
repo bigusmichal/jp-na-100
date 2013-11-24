@@ -2,17 +2,17 @@
 
 int main()
 {
-int result[5], i = 0, y;
+int result[6], i = 0;
 
 i = 0;
 while (i < 6)
 
         {
-                printf("podaj liczbe \n");
+                printf("podaj liczbe: ");
                 scanf("%d", &result[i]);
                 ++i;
         }
                 for (i = 0; i < 6; ++i)
-                printf ("twoje liczby to %d \n", result[i]);
+                printf ("twoje liczby to %d ", result[i]);
 return 0;
 }
