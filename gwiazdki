@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+void gwiazdki(char elemnet[])
+
+int main () { 
+int w = 0;
+
+ while (w < 5) {
+ gwiazdki("* ");
+ gwiazdki(" *");
+ ++w;
+ }
+ return 0;
+ }
+void gwiazdki(char element[]) {
+int i = 0
+	while (i < 10) {
+	 printf("%s" , elemnet);
+	 ++i;
+	}
+	print("\n");
+}
